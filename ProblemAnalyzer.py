@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Jul 24 17:06:25 2021
-
-@author: Justin
-"""
 import pandas as pd
 class problemAnalyzer():
     #converted
