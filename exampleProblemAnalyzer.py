@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Aug 12 17:25:34 2021
-
-@author: Justin
-"""
-
 import ProblemAnalyzer as pa
 from pulp import *
 
